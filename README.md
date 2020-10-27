@@ -1,4 +1,4 @@
-# Magento 2 Repository Example
+# Magento 2 headless mode
 
 This Magento 2 Repository Example is a starting point of all Magento 2 custom projects. It contains only necessary files, the files which are required for creating and extracting Magento 2 project on a server or a local environment.
 
